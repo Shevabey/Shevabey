@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS, Vue JS, UI UX**
 
-- 💬 Ask me about **Web, Design Web**
+- 💬 Ask me about **Web Developer, Web Design**
 
 - 📫 How to reach me **shevabeyrahman@gmail.com**
 
